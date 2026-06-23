@@ -178,7 +178,7 @@ End-to-end deployment pipelines powering the production sites listed above.
 ### 🎯 Task Manager (Java)
 **End-to-End CI/CD Pipeline**
 
-<a href="https://github.com/dipen674/Simple_Java_TM/tree/harbor">
+<a href="https://github.com/deependra-bhatta/Simple_Java_TM/tree/harbor">
   <img src="Java_taskmanager.jpeg" width="100%" alt="Task Manager Architecture"/>
 </a>
 
@@ -195,7 +195,7 @@ Automated deployment on VMs using Jenkins orchestration, Harbor registry, and An
 
 <div align="center">
   
-  [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipen674/Simple_Java_TM/tree/harbor)
+  [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deependra-bhatta/Simple_Java_TM/tree/harbor)
   
 </div>
 
@@ -205,7 +205,7 @@ Automated deployment on VMs using Jenkins orchestration, Harbor registry, and An
 ### 🏢 IDURAR ERP (MERN)
 **K8s Orchestration & GitOps**
 
-<a href="https://github.com/dipen674/mern_admin_nodejs_fullstack">
+<a href="https://github.com/deependra-bhatta/mern_admin_nodejs_fullstack">
   <img src="IEURP.jpeg" width="100%" alt="IDURAR Architecture"/>
 </a>
 
@@ -222,7 +222,7 @@ Production-grade MERN deployment on Kubernetes using Helm charts and GitHub Acti
 
 <div align="center">
   
-  [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipen674/mern_admin_nodejs_fullstack)
+  [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deependra-bhatta/mern_admin_nodejs_fullstack)
   
 </div>
 
@@ -235,7 +235,7 @@ Production-grade MERN deployment on Kubernetes using Helm charts and GitHub Acti
 ### 🔐 MERN Task Manager
 **Secure Artifact Registry**
 
-<a href="https://github.com/dipen674/Ansible_Project/tree/main">
+<a href="https://github.com/deependra-bhatta/Ansible_Project/tree/main">
   <img src="Taskmanager_MERN.jpeg" width="100%" alt="MERN Task Manager"/>
 </a>
 
@@ -252,7 +252,7 @@ Build-to-deploy automation focusing on secure image storage in a private Harbor 
 
 <div align="center">
   
-  [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipen674/Ansible_Project/tree/main)
+  [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deependra-bhatta/Ansible_Project/tree/main)
   
 </div>
 
@@ -262,7 +262,7 @@ Build-to-deploy automation focusing on secure image storage in a private Harbor 
 ### 🌐 DevConnector
 **Micro-Container Architecture**
 
-<a href="https://github.com/dipen674/Django_React_application">
+<a href="https://github.com/deependra-bhatta/Django_React_application">
   <img src="Django_app.png" width="100%" alt="DevConnector Dashboard"/>
 </a>
 
@@ -279,7 +279,7 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 
 <div align="center">
   
-  [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipen674/Django_React_application)
+  [![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deependra-bhatta/Django_React_application)
   
 </div>
 
@@ -292,7 +292,7 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 
 ### 🔍 Want to see more?
 
-[![All Repositories](https://img.shields.io/badge/View_All_Projects-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dipen674?tab=repositories)
+[![All Repositories](https://img.shields.io/badge/View_All_Projects-2088FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deependra-bhatta?tab=repositories)
 
 </div>
 
@@ -301,12 +301,12 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipen674&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipen674&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deependra-bhatta&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deependra-bhatta&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dipen674&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deependra-bhatta&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 </div>
 
 ---
@@ -380,11 +380,11 @@ Multi-container Django & React app orchestrated with Nginx as a reverse proxy.
 
 ### 👁️ Profile Views
 
-![Visitor Count](https://komarev.com/ghpvc/?username=dipen674&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=deependra-bhatta&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
-<sub>⭐️ From [Deependra Bhatta](https://github.com/dipen674) with ❤️</sub>
+<sub>⭐️ From [Deependra Bhatta](https://github.com/deependra-bhatta) with ❤️</sub>
 
 <sub>💡 **Pro tip:** Star this profile if you found it helpful!</sub>
 
